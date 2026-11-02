@@ -1,0 +1,1 @@
+Git HUb and Git Bash remote-local repositories
